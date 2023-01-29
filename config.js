@@ -25,36 +25,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
+global.sig = 'https://www.instagram.com/dpcuy_/'
 global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
 global.sgh = 'https://github.com/SaepEp'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sgc = 'https://chat.whatsapp.com/Ix7Ug8oRwb1EHzTX4Vb17O'
+global.swa = 'wa.me/6285846630580'
+global.swb = 'https://discord.gg/2YPv6c6p'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.pdana = '6285846630580'
+global.povo = '6285846630580'
+global.pgopay = '6285846630580'
+global.ppulsa = '6285846630580'
+global.ppulsa2 = '6282123593328'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '6282123593328'
+global.nomorown = '6285846630580'
+global.nomorown1 = '6285846630580'
+global.namebot = 'yoBotz'
+global.nameown = 'Dapcuy'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
-  ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6285846630580', 'NexEp', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,16 +101,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'NexBotz | By NexEp'
+global.wm = 'By YoBots' //Main Watermark
+global.wm2 = 'YoBots'
+global.wm3 = 'YoBots | By Dapcuy'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
+global.titlebot = `YoBots | ʙʏ ${global.nameown}`
 global.author = 'NexEp' 
 global.packname = 'NexEp'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = '-'
 
 
 /*============== LOGO ==============*/
@@ -388,8 +385,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `NexEp`
+global.stickpack = 'By YoBots'
+global.stickauth = `YoBots`
 
 global.multiplier = 38 // The higher, The harder levelup
 
