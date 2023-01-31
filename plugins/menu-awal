@@ -65,7 +65,7 @@ ptt: false, seconds: 0,contextInfo: {
 *Baileys: Multi Device*
 
 *Waktu* ${moment.tz('Asia/Jakarta').format('HH')} H${moment.tz('Asia/Jakarta').format('mm')} M${moment.tz('Asia/Jakarta').format('ss')} S
-  `.trim(), wm, giflogo, 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu', 'My Group', null, null, [, 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu', 'My Group', null, null, [
+  `.trim(), wm, giflogo, 'https://chat.whatsapp.com/Ix7Ug8oRwb1EHzTX4Vb17O', 'My Group', null, null, [, 'https://chat.whatsapp.com/Ix7Ug8oRwb1EHzTX4Vb17O', 'My Group', null, null, [
     ['SIMPLE', `.tesm`],
     ['ALL', `.?all`],
     ['SEWA', `.sewa`]
