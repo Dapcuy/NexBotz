@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
   let LastClaim = global.db.data.users[m.sender].lastclaim
 let cdm = `${MeNit(new Date - LastClaim)}`
 let cds = `${DeTik(new Date - LastClaim)}`
-let cd1 = Math.ceil(44 - cdm)
+let cd1 = Math.ceil(59 - cdm)
 let cd2 = Math.ceil(59 - cds)
  if (new Date - global.db.data.users[m.sender].lastclaim > 2700000) {
     global.db.data.users[m.sender].uang += Math.floor(Math.random() * (10000 - 5000 + 1) + 5000);
