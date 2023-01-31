@@ -38,9 +38,9 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 let caption = `*• SEWA BOT & UP TO PREMIUM •*
         
 ❏ *LIST SEWA BOT*
-• Hemat = _5k/grup (1 minggu)_
+• Hemat = _3k/grup (1 minggu)_
 • Normal = _15k/grup (1 bulan)_
-• Standar = _45k/grup (3 bulan)_
+• Standar = _50k/grup (3 bulan)_
 • Pro = _65k/grup (5 bulan)_                                           
 • Permanen = _80k_
 
@@ -55,11 +55,11 @@ let caption = `*• SEWA BOT & UP TO PREMIUM •*
 
 
 ❏ *UPGRADE PREMIUM*
-• 5k  (1 Day)
-• 15k (1 Minggu)
-• 25k (1 Month)
-• 45k (3 Month)
-• 65k (5 Month)
+• 3k  (1 Day)
+• 4k (1 Minggu)
+• 5k (1 Month)
+• 16k (3 Month)
+• 28k (5 Month)
 • 75k (8 Tahun)
 
 
