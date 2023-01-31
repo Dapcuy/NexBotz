@@ -3,8 +3,8 @@ let pp = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&s
 let botol = global.wm
 let str = `
 ✧─────[ *Group Official* ]─────✧
-🍀 Group WhatsApp : https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu
-🍀 Server Discord : https://discord.gg/4HvezMAw
+🍀 Group WhatsApp : https://chat.whatsapp.com/Ix7Ug8oRwb1EHzTX4Vb17O
+🍀 Server Discord : https://discord.gg/2YPv6c6p
 ✧──────────···──────────✧
 `.trim()
 conn.sendButton(m.chat, str, `${botol}`, [['⋮☰ MENU','.menu']],m)
