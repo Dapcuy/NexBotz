@@ -503,7 +503,7 @@ ptt: false, seconds: 0,contextInfo: {
     description: sgc,
     title: "Join Grup",
     body: wm,
-    thumbnail: await (await fetch('https://telegra.ph/file/714ad42b3854526c957b9.jpg')).buffer(),
+    thumbnail: await (await fetch('https://telegra.ph/file/480e5ecf2b7c2cd2af96d.jpg')).buffer(),
     sourceUrl: sgc
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
